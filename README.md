@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Murat ERGÖN
 #### I am a Front-End Developer
 
-Skills: JS / HTML / CSS
+Skills: REACT/ JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
